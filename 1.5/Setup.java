@@ -37,7 +37,7 @@ public class Setup {
       // It's no print
       while(true) {
           if(idkeven() == true) {
-            bool aaaaaa = idkeven();
+            boolean aaaaaa = idkeven();
             if (aaaaaa == true) {
               System.out.println("tis rit?");
               System.out.println("I no code jaBHVJFDBEva");
