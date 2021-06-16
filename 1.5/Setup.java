@@ -1,5 +1,5 @@
 public class Setup {
-  public static bool idkeven() {
+  public static boolean idkeven() {
     while(true) {
           idkeven();
           System.out.println("do this work?");
