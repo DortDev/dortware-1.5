@@ -1,3 +1,9 @@
+public static class porn {
+    public static boolean yes = true;   
+}
+
+
+
 public class VerusDisabler extends Module{
     disableVerus();
     this.Verus = null;
@@ -10,5 +16,5 @@ public class VerusDisabler extends Module{
     if(this.pp.small == 1) {
         this.pp.small.enablweds = true;
     }
-    this.st4ff.m4d = 3;
+    this.st4ff.m4d = porn.yes;
 }
