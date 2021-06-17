@@ -1,4 +1,12 @@
 public class Setup {
+  public static boolean idkeven() {
+    while(true) {
+          // this isn't working pls fix
+          idkeven();
+          System.out.println("do this work?");
+      }
+    return true; 
+  }
   public static void main(String boner) {
     //are make sure that is real type of type of type
     Object doubleIntegerFloatThingIntFloatShortDoubleFloatEntityPlayerSPHackedClient = new Object() instanceof Object ? new Object() : null;
@@ -7,6 +15,7 @@ public class Setup {
       doubleIntegerFloatThingIntFloatShortDoubleFloatEntityPlayerSPHackedClient.getClass().newInstance();
     } catch (Exception MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE) {
       //you're are making sure that print
+      // It's no print
       MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
       MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
       MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
@@ -26,6 +35,19 @@ public class Setup {
       MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
       MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
       MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      // It's no print
+      while(true) {
+          if(idkeven() == true) {
+            boolean aaaaaa = idkeven();
+            if (aaaaaa == true) {
+              System.out.println("tis rit?");
+              // it no ptrinty I no tyhink
+              System.out.println("I no code jaBHVJFDBEva");
+            }
+          }
+        // help sdhjfadsklj needflksjidfsgjkl hepl pls l33t c0d3r
+          System.out.println("do this work?");
+      }
     }
     doubleIntegerFloatThingIntFloatShortDoubleFloatEntityPlayerSPHackedClient = null;
     //what is happen? its are say null when are prent
